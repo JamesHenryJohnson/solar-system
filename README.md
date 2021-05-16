@@ -1,2 +1,2 @@
-# threejs-journey
-Coursework for threejs-journey 
+# solar-system
+Solar system website
